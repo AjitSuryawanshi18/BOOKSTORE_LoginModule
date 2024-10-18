@@ -1,0 +1,1 @@
+{"uuid":"6fd02263-814b-4d5d-9db5-a2a137300d7b","name":"Edge Test","children":["f06259b3-8984-4f4d-b7fe-2f25ed484b47"],"befores":[{"name":"PreSetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729188905052,"stop":1729188911475}],"afters":[],"start":1729188905004,"stop":1729188918853}
